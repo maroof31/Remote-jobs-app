@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Remote jobs</string>
+    <string-array name="jobkeyword">
+        <item>all</item>
+        <item>fullstack</item>
+        <item>frontend</item>
+        <item>backend</item>
+        <item>android</item>
+        <item>ios</item>
+        <item>java</item>
+        <item>UI</item>
+        <item>UX</item>
+
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
